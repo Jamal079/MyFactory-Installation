@@ -23,14 +23,14 @@ Installation:
         * []  .NET Erweiterbarkeit 4.5 -> alle Abhänigkeiten
         * []  ASP.NET 4.5 -> und alle Abhängigkeiten
 
-* [x]  SQL-Server Installieren
-  * [x]  SQL Server herunterladen (Developer oder Express, je nach Lizenzanforderung)
-  * [x]  Benutzerdefiniert, Verzeichnis kann normal belassen werden (z.B. C:\SQL2019 oder was auch immer vorgeschlagen wird)
-  * [x]  Updates suchen -> Ja
-  * [x]  Datenbankmoduldienste, der Rest ist optional
-  * [x]  Benutzer der Dienste belassen
-  * [x]  Gemischter Modus -> starkes Kennwort vergeben
-    * [x]  ggf. aktuellen Benutzer als Admin hinzufügen
+* []  SQL-Server Installieren
+  * []  SQL Server herunterladen (Developer oder Express, je nach Lizenzanforderung)
+  * []  Benutzerdefiniert, Verzeichnis kann normal belassen werden (z.B. C:\SQL2019 oder was auch immer vorgeschlagen wird)
+  * []  Updates suchen -> Ja
+  * []  Datenbankmoduldienste, der Rest ist optional
+  * []  Benutzer der Dienste belassen
+  * []  Gemischter Modus -> starkes Kennwort vergeben
+    * []  ggf. aktuellen Benutzer als Admin hinzufügen
 
 * [x]  SSMS installieren
 
