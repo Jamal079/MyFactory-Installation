@@ -9,19 +9,19 @@ Prozessor Server-Prozessor mit mind. 4 Kernen
 
 
 Installation:
-* [x] Rollen und  Features
-  * [x] Serverrollen
-    * [x]  Webserver IIS ()
+* [] Rollen und  Features
+  * [] Serverrollen
+    * []  Webserver IIS ()
       * Features in Form von Verwaltungstools hinzufügen -> Ja
-  * [x]  Features
-    * [x] ASP.NET 4.5 (.NET Framework 4.5 -> ASP.NET 4.5)
+  * []  Features
+    * [] ASP.NET 4.5 (.NET Framework 4.5 -> ASP.NET 4.5)
 
-  * [x]  Rolle Webserver (IIS) -> Rollendienste
-    * [x]  Kompatibilität mit der IIS6-Verwaltung -> alle Punkte und deren Abhängigkeiten installieren
+  * []  Rolle Webserver (IIS) -> Rollendienste
+    * []  Kompatibilität mit der IIS6-Verwaltung -> alle Punkte und deren Abhängigkeiten installieren
     *  **WICHTIG, steht nicht in der Anleitung von myfactory**
-      * [x] Anwendungsentwicklung:
-        * [x]  .NET Erweiterbarkeit 4.5 -> alle Abhänigkeiten
-        * [x]  ASP.NET 4.5 -> und alle Abhängigkeiten
+      * [] Anwendungsentwicklung:
+        * []  .NET Erweiterbarkeit 4.5 -> alle Abhänigkeiten
+        * []  ASP.NET 4.5 -> und alle Abhängigkeiten
 
 * [x]  SQL-Server Installieren
   * [x]  SQL Server herunterladen (Developer oder Express, je nach Lizenzanforderung)
